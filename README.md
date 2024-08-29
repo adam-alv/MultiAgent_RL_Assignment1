@@ -1,13 +1,13 @@
-## Assignment 1
-# Q1 Result:
-Optimum Values
+# Assignment 1
+## Q1 Result:
+#### Optimum Values
 value(Hostel)= 16.05623156 
 
 value(academic building)= 21.84650722 
 
 value(canteen)= 18.82669839
 
-Optimum policy
+#### Optimum policy
 
 π(Hostel)= Study
 
