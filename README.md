@@ -14,3 +14,7 @@ value(canteen)= 18.82669839
 π(academic building)= Study
 
 π(canteen)= Study
+
+## Q2 Result:
+
+Value Iteration and Policy iteration values have been uploaded along with code and quiver plot
